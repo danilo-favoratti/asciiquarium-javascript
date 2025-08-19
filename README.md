@@ -14,3 +14,6 @@ Check out the demo video:
 
 [Watch the video](https://youtu.be/n9V1CisknyE)
 
+![Asciiquarium](https://github.com/danilo-favoratti/asciiquarium-javascript/blob/main/screenshot/screenshot.png?raw=true)
+
+
