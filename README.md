@@ -12,5 +12,5 @@ See [Asciiquarium Perl](https://github.com/cmatsuoka/asciiquarium/)
 
 Check out the demo video:
 
-[Watch the video](https://github.com/danilo-favoratti/asciiquarium-javascript/blob/main/video/demo.mp4)
+[Watch the video](https://youtu.be/n9V1CisknyE)
 
