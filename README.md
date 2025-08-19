@@ -8,6 +8,9 @@ Created with GPT-4.
 
 See [Asciiquarium Perl](https://github.com/cmatsuoka/asciiquarium/)
 
-<video width="600" controls>
-  <source src="https://github.com/danilo-favoratti/asciiquarium-javascript/blob/main/video/video.mp4" type="video/mp4">
-</video>
+# Demo
+
+Check out the demo video:
+
+[Watch the video](https://github.com/danilo-favoratti/asciiquarium-javascript/blob/main/video/video.mp4)
+
